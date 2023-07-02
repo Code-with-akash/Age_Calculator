@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 
-.cantainer{
+.container{
     width: 100%;
     min-height: 100vh;
     background: linear-gradient(135deg, #0f0f10,#6c0eca);
@@ -81,7 +81,6 @@
 #result span{
     color: yellow;
 }
-
 
 
 
